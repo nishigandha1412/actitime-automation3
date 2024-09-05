@@ -8,7 +8,8 @@ import org.testng.annotations.Test;
 import java.io.IOException;
 
 public class Demo3 extends BaseClass {
-    WebDriver driver;
+    WebDriver driver;git status
+            
     PropertyHandling propertyHandling;
     @Test
     public void setUp() throws IOException {
